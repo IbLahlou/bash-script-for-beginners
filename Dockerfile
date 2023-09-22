@@ -15,7 +15,6 @@ RUN apk add --no-cache bash dos2unix
 RUN find . -type f -iname "*.sh" -exec dos2unix {} \;
 
 # Make sure your scripts in .docker/bin are executable
-RUN chmod +x /app/Exo0_Basics/script.sh
 RUN chmod +x /app/Exo1_Calculating_the_mean/script.sh
 RUN chmod +x /app/Exo2_Filtering_the_data/script.sh
 RUN chmod +x /app/Exo3_Joining_data/script.sh

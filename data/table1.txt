@@ -1,0 +1,11 @@
+id,firstname,lastname,mark,parent_id
+1,John,Doe,20,1
+2,Sara,Doe,14,1
+3,Alice,Smith,15,2
+4,Bob,Johnson,18,2
+5,Charlie,Brown,16,3
+6,Dave,Davis,17,3
+7,Eve,Evans,19,4
+8,Frank,Franklin,13,4
+9,Gina,Gilbert,12,5
+10,Hank,Harrison,14,5

@@ -1,0 +1,10 @@
+parent_id,parent_tel,fathername,mothername
+1,+1 777616161,Ahmed,Rosa
+2,+1 777616162,Bob,Susan
+3,+1 777616163,Charlie,Nancy
+4,+1 777616164,Dave,Patty
+5,+1 777616165,Eve,Lucy
+6,+1 777616166,Frank,Sally
+7,+1 777616167,Gina,Tina
+8,+1 777616168,Hank,Linda
+9,+1 777616169,Ian,Jane

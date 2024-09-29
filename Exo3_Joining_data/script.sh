@@ -7,7 +7,7 @@ dos2unix ../data/table2.txt
 # Initialize output file with header
 echo "id,firstname,lastname,mark,parent_tel" > output.txt
 
-# Read students file line by line
+# Read students file line by line (duh)
 while IFS=, read -r id firstname lastname mark parent_id
 do
   # Check if mark is less than 15
